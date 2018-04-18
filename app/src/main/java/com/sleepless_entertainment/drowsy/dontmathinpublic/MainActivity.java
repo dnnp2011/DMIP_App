@@ -52,8 +52,6 @@ public class MainActivity extends AppCompatActivity {
                     }
                     if (numberText.getText().toString().isEmpty()) {
                         numberText.setHint("You must enter number");
-                        //Testing testing
-                        System.out.print("test");
                     }
                     return;
                 }
